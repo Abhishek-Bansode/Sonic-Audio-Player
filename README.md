@@ -16,6 +16,7 @@ Features:
 
 
 Functionality:
+
 - The player allows getting a list of media files of the device, selecting any of them, and playing with the display of
   progress, the ability to scroll forward / backward and pause the media file.
 
@@ -27,6 +28,7 @@ Functionality:
 - Looping and random transition modes are supported
 
 Installation:
+
 To install and run the app, clone the repository and open in Android Studio. Then, connect an Android device and run the app on the device or use an emulator.
 
 ![Main view](screenshots/songs.png "Main activity")
