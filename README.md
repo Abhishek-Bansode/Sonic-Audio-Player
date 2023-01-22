@@ -4,10 +4,15 @@ Simplified version of Music Player.
 
 Features:
 -> Playback of popular audio formats such as MP3 and AAC
+
 -> Create and manage playlists
+
 -> Browse and search for music on the device
+
 -> Control playback from the lock screen and notifications
+
 -> Equalizer for adjusting sound settings
+
 
 Functionality:
 - The player allows getting a list of media files of the device, selecting any of them, and playing with the display of
