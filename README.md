@@ -3,6 +3,7 @@
 Simplified version of Music Player.
 
 Features:
+
 -> Playback of popular audio formats such as MP3 and AAC
 
 -> Create and manage playlists
